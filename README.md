@@ -45,8 +45,8 @@ Follow these steps to compile and run the project from your terminal:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/encf/PPMICV/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/encf/PPMICV.git
+    cd PPMICV
     ```
 
 2.  **Configure the project with CMake:**
